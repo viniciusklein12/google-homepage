@@ -12,4 +12,4 @@ So far, The Odin Project has been an excelent path to follow in learning Web Dev
 
 ## Assignment Source
 
-This project is from The Odin Project's [Google Home Page assignment] (http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
+This project is from The Odin Project's [Google Home Page assignment](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
